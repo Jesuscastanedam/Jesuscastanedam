@@ -16,28 +16,20 @@
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 
 <br><br>
-
-- 🎓 Recién graduado del Bootcamp de Data Scientist en 4Geeks.
-
-- 🚀 Apasionado por la Ciencia de Datos con experiencia previa en Marketing y Publicidad, buscando fusionar ambos mundos para revelar insights accionables y guiar la toma de decisiones.
-
-- 💻 Domino Python y SQL, con experiencia en librerías clave como Pandas, NumPy, Scikit-learn, TensorFlow, Keras, PyTorch para análisis y construcción de modelos.
-
-- 📊 Experiencia en visualización de datos con Power BI y Looker Studio, y familiaridad con AWS para despliegue de soluciones.
-
-- ⚙️ Mis proyectos incluyen un modelo de Computer Vision con Hugging Face (¡desplegado en Render!) y un proyecto de predicción de depresión.
-
-- ✨ Me motiva extraer valor de los datos, descubrir patrones ocultos y abordar problemas complejos con un enfoque de prueba y error.
-
-- 🧠 Interesado en Deep Learning, Business Intelligence y Computer Vision.
-
-- 🏆 Nuestro proyecto del bootcamp fue seleccionado para la fase final de un evento online de la academia.
-
-- 🚀 Siempre buscando mi próximo desafío en Data Science.
-
-- 🔗 Este es mi CV: 
+- 🎓 **Data Scientist** at **4Geeks** | **Marketing & Advertising** at **IMF Capitol**.
+- 🚀 Passionate about **Data Science** with prior experience in **Marketing & Advertising**. My goal is to merge these two worlds to **uncover actionable insights** and empower data-driven decision-making.
+- 💻 Proficient in **Python and SQL**, with practical experience in essential libraries like `Pandas`, `NumPy`, `Scikit-learn`, `TensorFlow`, `Keras`, `PyTorch` for analysis and model building.
+- 📊 Competent in **data visualization** using `Power BI` and `Looker Studio`, and familiar with `AWS` for solution deployment.
+- ⚙️ My projects include applying **Computer Vision** with pre-trained `Hugging Face` models (deployed on `Render`!) and developing a model for **depression** prediction.
+- ✨ My curiosity drives me to **extract hidden value from data**, revealing patterns and solutions to complex problems through an **exploratory and continuous improvement mindset**.
+- 🧠 Interested in **Deep Learning**, **Business Intelligence**, and **Computer Vision**.
+- 🏆 Our bootcamp project was **selected for the final phase** of an online academy event.
+- 🔗 Always seeking my next challenge in **Data Science**. Here's my **CV**: 
 <br>
 
+### 🛠 &nbsp;Tech Stack
+
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)&nbsp;
 <!--
 **Jesuscastanedam/Jesuscastanedam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
