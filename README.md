@@ -24,7 +24,7 @@
 - ✨ My curiosity drives me to **extract hidden value from data**, revealing patterns and solutions to complex problems through an **exploratory and continuous improvement mindset**.
 - 🧠 Interested in **Deep Learning**, **Business Intelligence**, and **Computer Vision**.
 - 🏆 Our bootcamp project was **selected for the final phase** of an online academy event.
-- 🔗 Always seeking my next challenge in **Data Science**. Here's my **CV**: **https://www.linkedin.com/in/jesuscastanedam/**!
+- 🔗 Always seeking my next challenge in **Data Science**. Here's my **CV**: **https://drive.google.com/file/d/1L5oUklbVGQAywb6gAfPwSee_COmG3BDr/view?usp=sharing**!
 
 ---
 
